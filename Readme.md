@@ -1,4 +1,4 @@
-# Git Cheat Sheet by Md Faijul Islam
+<h1 align="center">Git Cheat Sheet by Md Faijul Islam</h1>
 
 ## Table of Contents
 
@@ -6,6 +6,9 @@
    - [Windows](#windows)
    - [Linux & Unix](#linux--unix)
    - [MacOS](#mac)
+2. **[Git Profile Setup](#setting-up-git-user-profile)**
+
+---
 
 ## Installing git based on your operating system
 
@@ -22,3 +25,7 @@
 ### Mac
 
 - Mac is also a UNIX based platform. There are several options for installing Git on macOS. You can choose the right option for you form the official webpage [Install Git For MacOS](https://git-scm.com/downloads/mac)
+
+## Setting up git user profile
+
+You can setup you profile from
